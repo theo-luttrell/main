@@ -1,0 +1,23 @@
+body {
+    padding: 10px;
+  }
+  #intro-container {
+    background-color: black;
+    color: white;
+    height: 50%;
+    width: 100%;
+    min-height: 250px;
+    max-height: 1000px;
+    border-radius: 20px;
+    border: solid grey 5px;
+    padding: 50px;
+    
+  }
+  
+  .intro-textbox {
+    width: 50%;
+    font-size: 40px;
+    font-family: Amaranth;
+    display: inline;
+    vertical-align: middle;
+  }
